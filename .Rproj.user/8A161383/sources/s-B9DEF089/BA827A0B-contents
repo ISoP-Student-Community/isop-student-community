@@ -1,0 +1,11 @@
+name: "Student ISoP"
+navbar:
+  title: "ISoP Student Ciommunity"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Resources"
+      href: Resources.html 
+output_dir: "docs"
