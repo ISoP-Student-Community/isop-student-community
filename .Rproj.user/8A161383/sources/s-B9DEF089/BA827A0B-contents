@@ -8,4 +8,9 @@ navbar:
       href: about.html
     - text: "Resources"
       href: Resources.html 
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    
 output_dir: "."
