@@ -1,7 +1,7 @@
 name: "Student ISoP"
 navbar:
   title: "ISoP Student Ciommunity"
-  left:
+  right:
     - text: "Home"
       href: index.html
     - text: "About"

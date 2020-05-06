@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3115490920",
+    "hash" : "0",
     "id" : "BA827A0B",
-    "lastKnownWriteTime" : 1588791898,
-    "last_content_update" : 1588791898530,
+    "lastKnownWriteTime" : 1588792403,
+    "last_content_update" : 1588792403483,
     "path" : "~/Documents/ISoP/isopsc/_site.yml",
     "project_path" : "_site.yml",
     "properties" : {
-        "cursorPosition" : "11,0",
+        "cursorPosition" : "3,7",
         "scrollLine" : "0"
     },
     "read_only" : false,
