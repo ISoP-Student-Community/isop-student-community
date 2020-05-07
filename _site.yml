@@ -28,9 +28,9 @@ navbar:
         - text: "---------"
         - text: "Journals"
         - text: "JPKPD"
-          href: page-c.html
+          href: https://www.springer.com/journal/10928/
         - text: "CPT:PSP"
-          href: page-d.html
+          href: https://ascpt.onlinelibrary.wiley.com/journal/21638306/
 output:
   html_document:
     theme: cosmo
