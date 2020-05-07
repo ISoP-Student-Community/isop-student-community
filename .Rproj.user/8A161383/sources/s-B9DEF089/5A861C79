@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588819932459.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5A861C79",
+    "lastKnownWriteTime" : 1588822926,
+    "last_content_update" : 1588822926401,
+    "path" : "~/Documents/ISoP/isopsc/whoare.Rmd",
+    "project_path" : "whoare.Rmd",
+    "properties" : {
+        "cursorPosition" : "18,88",
+        "last_setup_crc32" : "B9DEF089bb338d19",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -8,6 +8,14 @@ navbar:
     - text: "About"
       icon: fa-info
       href: about.html
+      menu: 
+        - text: "Who are we"
+        - text: "Leadership team"
+          href: lead.html
+        - text: "Communication team"
+          href: whoare.html
+        - text: "Contact us"
+          href: contact.html
     - text: "Resources"
       icon: fa-gear 
       href: Resources.html 
