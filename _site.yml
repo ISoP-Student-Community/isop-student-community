@@ -20,16 +20,16 @@ navbar:
       icon: fa-gear 
       href: Resources.html 
       menu:
-        - text: "Heading 1"
-        - text: "Page A"
-          href: page-a.html
-        - text: "Page B"
+        - text: "ISoP"
+        - text: "ISoP Discussion"
+          href: https://discuss.go-isop.org/
+        - text: "Newsletter"
           href: page-b.html
         - text: "---------"
-        - text: "Heading 2"
-        - text: "Page C"
+        - text: "Journals"
+        - text: "JPKPD"
           href: page-c.html
-        - text: "Page D"
+        - text: "CPT:PSP"
           href: page-d.html
 output:
   html_document:
