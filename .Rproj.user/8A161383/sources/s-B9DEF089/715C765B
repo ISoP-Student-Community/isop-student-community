@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "500604923",
+    "hash" : "1617647516",
     "id" : "715C765B",
-    "lastKnownWriteTime" : 1588822952,
-    "last_content_update" : 1588822952353,
+    "lastKnownWriteTime" : 1588825581,
+    "last_content_update" : 1588825581802,
     "path" : "~/Documents/ISoP/isopsc/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
-        "cursorPosition" : "10,17",
+        "cursorPosition" : "3,14",
         "scrollLine" : "0"
     },
     "read_only" : false,
