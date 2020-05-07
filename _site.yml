@@ -21,9 +21,9 @@ navbar:
       href: Resources.html 
       menu:
         - text: "ISoP"
-        - text: "ISoP Discussion"
+        - text: "ISoP Discussion panel"
           href: https://discuss.go-isop.org/
-        - text: "Newsletter"
+        - text: "ISoP Student Newsletter (M&M)"
           href: page-b.html
         - text: "---------"
         - text: "Journals"
