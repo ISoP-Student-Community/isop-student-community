@@ -24,7 +24,7 @@ navbar:
         - text: "ISoP Discussion panel"
           href: https://discuss.go-isop.org/
         - text: "ISoP Student Newsletter (M&M)"
-          href: page-b.html
+          href: news.html
         - text: "---------"
         - text: "Journals"
         - text: "JPKPD"
