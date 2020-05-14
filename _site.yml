@@ -33,7 +33,7 @@ navbar:
           href: https://ascpt.onlinelibrary.wiley.com/journal/21638306/
 output:
   html_document:
-    theme: cosmo
+    theme: yeti
     highlight: textmate
     
 output_dir: "."
