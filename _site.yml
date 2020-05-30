@@ -14,6 +14,8 @@ navbar:
           href: lead.html
         - text: "Communication team"
           href: whoare.html
+        - text: "Steering committee"
+          href: sc.html
         - text: "Contact us"
           href: contact.html
     - text: "Resources"
