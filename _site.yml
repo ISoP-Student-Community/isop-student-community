@@ -1,6 +1,7 @@
 name: "Student ISoP"
 navbar:
-  title: "ISoP Student Community"
+  title: "ISoP student community"
+    
   right:
     - text: "Home"
       icon: fa-home
@@ -8,14 +9,16 @@ navbar:
     - text: "About"
       icon: fa-info
       href: about.html
+      type: inverse 
       menu: 
         - text: "Who are we"
-        - text: "Leadership team"
-          href: lead.html
-        - text: "Communication team"
-          href: whoare.html
-        - text: "Steering committee"
-          href: sc.html
+          menu:
+          - text: "Leadership team"
+            href: lead.html
+          - text: "Communication team"
+            href: whoare.html
+          - text: "Steering committee"
+            href: sc.html
         - text: "Volunteering"
           href: vol.html
         - text: "Contact us"
