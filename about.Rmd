@@ -4,6 +4,5 @@
    About us
 ---
 
-Under Construction 
 
 ![logo](logo.png)

@@ -1,0 +1,25 @@
+---
+title: "Volunteer"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+__Leadership team elections__
+
+Election is held yearly. The chair will become immediate past chair with co-chair assuming the role of Chair, and the vice-chair will assume the role of co-chair when those respective positions are vacated.
+
+Any steering committee member may nominate for a leadership position. The current leadership team will review their involvement, active participation for the past year to confirm eligibility of nomination.
+
+
+__How to volunteer__
+
+The ISoP student community is composed of trainee members from academic institutes across the globe, and whoever interested is encouraged to join by becoming a member. To find out more, feel free to contact the leadership team or the respective representative from your University/country/region on the steering committee.
+
+
+__Monthly teleconference__
+
+Leadership and steering committee meets on the first Thursday of the month to discuss about ISoP student events and opportunities.
