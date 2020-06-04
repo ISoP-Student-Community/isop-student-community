@@ -9,12 +9,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-__Mahdiar Sadeghi__ | __Chiara Campana__ 
-:--------------:|:--------------:
-<img src="./member/Profile Picture - Mahdiar Sadeghi.jpg" width="256" height="256" /> |<img src="./member/photo_chiaracampana - Chiara Campana.jpg" width="256" height="256" /> 
+__Mahdiar Sadeghi__ | __Chiara Campana__ | __JW Zhou__ | __Jurij Zdovc__
+:--------------:|:--------------:|:-------------:|:-----------------:
+<img src="./member/Profile Picture - Mahdiar Sadeghi.jpg" width="256" height="256" /> |<img src="./member/photo_chiaracampana - Chiara Campana.jpg" width="256" height="256" /> | <img src="./member/C282E417-569D-43A7-9395-B7366A991EEF - JW Zhou.jpeg" width="256" height="256" /> | <img src="./member/Photo_Jurij_Zdovc_BioCamp - Copy - Jurij Zdovc.jpg" width="256" height="256"  />
 
-
-__JW Zhou__ | __Jurij Zdovc__
-:-------------:|:-----------------:
-<img src="./member/C282E417-569D-43A7-9395-B7366A991EEF - JW Zhou.jpeg" width="256" height="256" /> | <img src="./member/Photo_Jurij_Zdovc_BioCamp - Copy - Jurij Zdovc.jpg" width="256" height="256"  />
 
