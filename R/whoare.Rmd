@@ -11,12 +11,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 __Ya-Feng Wen__ | __Zaid Temrikar__ | __Anne-Grete Martsion__
 :--------------:|:--------------:|:-----------------:
-<img src="./member/Ya-Feng Wen.jpg" width="256" height="256" /> |<img src="./member/Zaid Temrikar.jpg" width="256" height="256" /> | <img src="./member/AnneGrete_Martson.jpeg" width="256" height="256"  />
+<img src="./member/Ya-Feng Wen_website.jpg" width="256" height="256" /> |<img src="./member/Zaid Temrikar_webiste.jpg" width="256" height="256" /> | <img src="./member/AnneGrete_Martson_web.jpg" width="256" height="256"  />
 
 
 __Mutaz Jaber__ | __Shen Cheng__
 :-------------:|:-----------------:
-<img src="./member/MMJaber.jpg" width="256" height="256" /> | <img src="./member/Shen.jpg" width="256" height="256"  />
+<img src="./member/MMJaber_website.jpg" width="256" height="256" /> | <img src="./member/Shen_website.jpg" width="256" height="256"  />
 
 
 

@@ -9,10 +9,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 __Ashwin Karanam__ | __Yi Ting (Kyla) Lien__ | __Patric Hanafin__ | __Braian Cicali__
 :-----------------:|:-----------------:|:-----------------:|:-----------------:
-<img src="./member/Karanam.jpg" width="256" height="256" /> | <img src="./member/Yi Ting Lien_pic.jpg" width="256" height="256"  /> | <img src="./member/patrickHanafin_00026.png" width="256" height="256" /> | <img src="./member/HeadShot_4-11-18_BrianCicali.jpg" width="256" height="256"  />
+<img src="./member/Karanam.jpg" width="256" height="256" /> | <img src="./member/Yi Ting Lien_pic.jpg" width="256" height="256"  /> | <img src="./member/patrickHanafin_website.jpg" width="256" height="256" /> | <img src="./member/BrianCicali_web.jpg" width="256" height="256"  />
 
 
 
 --------------
 
 __ISoP Board Liaison__: <a href="mailto:vivaturi@rx.umaryland.edu>"> Vijay Ivaturi </a> 
+
+<br>
+
+<img src="./member/Vijay Ivaturi-1.jpg" width="256" height="256" />
