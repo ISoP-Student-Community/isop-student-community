@@ -19,6 +19,8 @@ navbar:
             href: whoare.html
           - text: "Steering committee"
             href: sc.html
+          - text: "Educational committee"
+          - text: "ACoP planning committee"
         - text: "Volunteering"
           href: vol.html
         - text: "Contact us"

@@ -7,7 +7,31 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+<br>
 
+
+The missions of the communication committee includes:
+
+
+* Support ISoP Five-Year Strategic Plan
+
+* Increase communication among ISoP student members and with larger ISoP communities
+
+* Empower students’ achievement by increasing their visibility
+
+* Encourage collaboration among students with diverse backgrounds
+
+The responsibilities includes: 
+
+* Create monthly student newsletters to feature student achievements, important events, job opportunities, and more. [Example](https://isop-student-community.github.io/isop-student-community/MM_issue1.html)
+
+* Create and maintain ISoP Student Community Website
+
+* Organize various events, including social events and journal clubs
+
+**If you are interested in joining the Communication Committee, please contact [Jay (Ya-Feng) Wen](mailto:wenxx164@umn.edu)**
+
+----
 
 __Ya-Feng Wen__ | __Zaid Temrikar__ | __Anne-Grete Martsion__
 :--------------:|:--------------:|:-----------------:
