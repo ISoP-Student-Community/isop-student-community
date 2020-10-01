@@ -9,8 +9,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-__Mahdiar Sadeghi__ | __Chiara Campana__ | __JW Zhou__ | __Jurij Zdovc__
+__Mahdiar Sadeghi__ | __Chiara Campana__ | __JW Zhou__ 
 :--------------:|:--------------:|:-------------:|:-----------------:
-<img src="./member/Profile Picture - Mahdiar Sadeghi.jpg" width="256" height="256" /> |<img src="./member/photo_chiaracampana - Chiara Campana.jpg" width="256" height="256" /> | <img src="./member/C282E417-569D-43A7-9395-B7366A991EEF - JW Zhou.jpeg" width="256" height="256" /> | <img src="./member/Photo_Jurij_Zdovc_BioCamp - Copy - Jurij Zdovc.jpg" width="256" height="256"  />
+<img src="./member/Mahdiar Sadeghi_website.jpg" width="256" height="256" /> |<img src="./member/Chiara Campana_website.jpg" width="256" height="256" /> | <img src="./member/JW Zhou_website.jpg" width="256" height="256" /> 
 
 
+__Jurij Zdovc__ | __Arun Prasath__ | __Architha Aithal__ | __Mokshada Kumar__
+:--------------:|:--------------:|:-------------:|:-----------------:
+<img src="./member/Jurij Zdovc_website.jpg.jpg" width="256" height="256" /> |<img src="./member/Arun prasath_website.png" width="256" height="256" /> | <img src="./member/Architha Aithal_website.png" width="256" height="256" /> | <img src="./member/Mokshada Kumar_website.png" width="256" height="256" />   
