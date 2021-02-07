@@ -40,6 +40,8 @@ navbar:
               href: MM_issue1.html
             - text: "Issue 2"
               href: MM_issue2.html
+            - text: "Issue 3"
+              href: MM_issue3.html
         - text: "---------"
         - text: "PMx Training Material"
           href: https://docs.google.com/spreadsheets/d/1MXWWRXArf6xYzQ7StSDe9umHpDvYDgLsm2TCwheXQYE/edit?urp=gmail_link&gxids=7757#gid=0
