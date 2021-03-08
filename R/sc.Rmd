@@ -16,4 +16,4 @@ __Mahdiar Sadeghi__ | __Chiara Campana__ | __JW Zhou__
 
 __Jurij Zdovc__ | __Arun Prasath__ | __Architha Aithal__ | __Mokshada Kumar__
 :--------------:|:--------------:|:-------------:|:-----------------:
-<img src="./member/Jurij Zdovc_website.jpg.jpg" width="256" height="256" /> |<img src="./member/Arun prasath_website.png" width="256" height="256" /> | <img src="./member/Architha Aithal_website.png" width="256" height="256" /> | <img src="./member/Mokshada Kumar_website.png" width="256" height="256" />   
+<img src="./member/Jurij Zdovc_website.jpg" width="256" height="256" /> |<img src="./member/Arun prasath_website.png" width="256" height="256" /> | <img src="./member/Architha Aithal_website.png" width="256" height="256" /> | <img src="./member/Mokshada Kumar_website.png" width="256" height="256" />   
