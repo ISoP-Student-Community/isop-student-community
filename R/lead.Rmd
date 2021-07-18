@@ -8,23 +8,53 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 **Current**
 
-__Braian Cicali (Chair)__ | __Zaid Temrikar (Chair-elect) | __ Jiawei Zhou (Secretary)__
-:-----------------:|:-----------------:|:-----------------:|:-----------------:
+__Braian Cicali (Chair)__ | __Zaid Temrikar (Chair-elect)__ | __Jiawei Zhou (Secretary)__
+:-----------------:|:-----------------:|:-----------------:
+<img src="./member/BrianCicali_web.jpg" width="256" height="256"  /> | <img src="./member/Zaid Temrikar_webiste.jpg" width="256" height="256" /> | <img src="./member/JW Zhou_website.jpg" width="256" height="256" />
+
+<br> 
+
+**ACoP Lead team**
+
+__Patrick Hanafin (ACoP Chair)__ 
+
+<img src="./member/patrickHanafin_website.jpg" width="256" height="256" />
 
 
+**SIG Liaison**
 
-**Past**
+<ul>
 
-__Ashwin Karanam__ | __Yi Ting (Kyla) Lien__ | __Patric Hanafin__ | __Braian Cicali__
-:-----------------:|:-----------------:|:-----------------:|:-----------------:
-<img src="./member/Karanam.jpg" width="256" height="256" /> | <img src="./member/Yi Ting Lien_website.png" width="256" height="256"  /> | <img src="./member/patrickHanafin_website.jpg" width="256" height="256" /> | <img src="./member/BrianCicali_web.jpg" width="256" height="256"  />
+  <li> Tyler Dunlap (Clin. PMx SIG) 
+  <li> Elham Amini (Clin. PMx SIG) 
+  <li>  Brian Cicali (QSP SIG) 
+  <li> Patrick Hanafin (Edu. committee) 
+  
 
 
+<br>
+<br>
 
---------------
+------------------
 
 __ISoP Board Liaison__: <a href="mailto:vivaturi@rx.umaryland.edu>"> Vijay Ivaturi </a> 
 
 <br>
 
 <img src="./member/Vijay Ivaturi-1.jpg" width="256" height="256" />
+
+
+------------------
+
+**Past**
+
+__Ashwin Karanam__ | __Yi Ting (Kyla) Lien__ | __Patric Hanafin__ | __Braian Cicali__
+:-----------------:|:-----------------:|:-----------------:|:-----------------:
+<img src="./member/Karanam.jpg" width="256" height="256" /> | <img
+src="./member/Yi Ting Lien_website.png" width="256" height="256"  /> | <img
+src="./member/patrickHanafin_website.jpg" width="256" height="256" /> | <img
+src="./member/BrianCicali_web.jpg" width="256" height="256"  />
+
+
+
+
