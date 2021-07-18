@@ -6,6 +6,14 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+**Current**
+
+__Braian Cicali (Chair)__ | __Zaid Temrikar (Chair-elect) | __ Jiawei Zhou (Secretary)__
+:-----------------:|:-----------------:|:-----------------:|:-----------------:
+
+
+
+**Past**
 
 __Ashwin Karanam__ | __Yi Ting (Kyla) Lien__ | __Patric Hanafin__ | __Braian Cicali__
 :-----------------:|:-----------------:|:-----------------:|:-----------------:
